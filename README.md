@@ -1,4 +1,4 @@
-# Visualisations
+# Deep Learning
 
 This is a github repository that I am using to keep python code related to Deep Learning. 
 
