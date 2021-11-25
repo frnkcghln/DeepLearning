@@ -21,6 +21,6 @@ Feel free to use the code as appropriate.
 
 ## Examples
 
-An image from the data cleaning stage of the Guinness Image Classifier.
+An image from the gradient descent blog post.
 
-![Guinness](https://frankiecoughlandata.files.wordpress.com/2021/11/image-8.png)
+![Descent](https://frankiecoughlandata.files.wordpress.com/2021/11/image-28.png)
